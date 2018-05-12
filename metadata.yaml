@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5321
     wikipedia: http://en.wikipedia.org/wiki/Edward_Streeter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13993#Dere-Mable--Love-Letters-of-a-Rookie
 gutenberg_bookshelf:
 - Bestsellers, American, 1895-1923
 - Humor
