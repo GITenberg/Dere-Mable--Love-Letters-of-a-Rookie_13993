@@ -1,0 +1,39 @@
+_repo: Dere-Mable--Love-Letters-of-a-Rookie_13993
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Breck, G. William (George William)
+    alias: Breck, Bill (George William)
+    birthdate: 1863
+    deathdate: 1920
+    gutenberg_agent_id: '33289'
+    url: http://www.gutenberg.org/2009/agents/33289
+covers:
+- cover_type: archival
+  image_path: 13993-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Streeter, Edward
+    birthdate: 1891
+    deathdate: 1976
+    gutenberg_agent_id: '5321'
+    url: http://www.gutenberg.org/2009/agents/5321
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Streeter
+description: ''
+gutenberg_bookshelf:
+- Bestsellers, American, 1895-1923
+- Humor
+- World War I
+gutenberg_issued: '2004-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D501'
+- !lcsh 'World War, 1914-1918 -- Humor, caricatures, etc.'
+title: 'Dere Mable: Love Letters of a Rookie'
+url: http://www.gutenberg.org/ebooks/13993
